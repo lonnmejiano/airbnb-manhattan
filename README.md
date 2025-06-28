@@ -25,7 +25,8 @@ The dataset was sourced from the **Triple Ten Dataset** and includes:
 - `Minimum Nights`
 
 ## Sample Dataset
-*Airbnb-Report[airbnb-report.pdf](https://github.com/user-attachments/files/20959621/airbnb-report.pdf)
+*Airbnb-Report ![airbnb_roi](https://github.com/user-attachments/assets/99cdbed0-7eb0-4797-82c3-2d1f0e912348)
+
 
 ---
 
