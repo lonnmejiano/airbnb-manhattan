@@ -1,6 +1,5 @@
-!(
+![AIrbnb-1600x533](https://github.com/user-attachments/assets/107a637d-28bc-4141-a756-635c8704d1bd)
 
-#  🏡 Airbnb Investment Modeling:
 
 ## Overview
 This project focuses on identifying the **top neighborhoods for Airbnb investment** using ROI modeling. By analyzing listing-level data across New York City, we calculated projected revenue, occupancy, and cost structures to uncover high-performing areas for short-term rental profitability.
