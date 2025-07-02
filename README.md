@@ -54,4 +54,13 @@ The dataset was sourced from the **Triple Ten Dataset** and includes:
   2. Astoria (Queens)  
   3. Harlem (Manhattan)
 
----
+## 📌 Strategic Recommendation
+
+To optimize Airbnb investment performance in NYC:
+
+- 📦 **Target mid-range properties in outer boroughs** (Brooklyn, Queens) with low fixed costs and high occupancy potential.
+- 📈 **Avoid over-leveraging in Manhattan** despite high nightly rates — ROI is diluted by elevated mortgages and taxes.
+- 💬 **Focus on private rooms and shared listings** in gentrifying areas like Bushwick and Astoria, which offer high turnover and scalable margins.
+- 📊 Use dynamic pricing strategies based on seasonality and availability to maximize occupancy rates.
+
+These strategies help investors align short-term rental goals with sustainable profit margins.
